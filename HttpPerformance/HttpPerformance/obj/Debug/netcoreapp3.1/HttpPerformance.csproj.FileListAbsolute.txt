@@ -1,0 +1,13 @@
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.exe
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.deps.json
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.runtimeconfig.json
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.runtimeconfig.dev.json
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.dll
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\bin\Debug\netcoreapp3.1\HttpPerformance.pdb
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.csprojAssemblyReference.cache
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.AssemblyInfoInputs.cache
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.AssemblyInfo.cs
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.csproj.CoreCompileInputs.cache
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.dll
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.pdb
+C:\Users\mo5808185\source\repos\HttpPerformance\HttpPerformance\obj\Debug\netcoreapp3.1\HttpPerformance.genruntimeconfig.cache
